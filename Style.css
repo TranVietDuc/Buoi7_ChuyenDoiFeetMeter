@@ -1,0 +1,10 @@
+select{
+    color: aqua;
+    font-weight: bold;
+}
+#amount{
+    color: blueviolet;
+}
+#select {
+    background: blue;
+}
